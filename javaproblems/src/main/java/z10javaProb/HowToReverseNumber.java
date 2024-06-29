@@ -8,8 +8,11 @@ public class HowToReverseNumber {
 		
 		int givenNumber=0;
 		int reverseNumber=0;
+		
 		System.out.println("Enter your number :");
+		
 		Scanner scanner=new Scanner(System.in);
+		
 		givenNumber=scanner.nextInt();
 		
 		while(givenNumber !=0) {
