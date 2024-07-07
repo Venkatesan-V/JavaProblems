@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-public class FindSmallestNumberInAnArray {
+public class Z15FindSmallestNumberInAnArray {
 
 	Integer givenArr[]= {21, 10, 15, 35, 9, 80};
 
@@ -32,7 +32,7 @@ public class FindSmallestNumberInAnArray {
 	}
 	public static void main(String[] args) {
 
-		FindSmallestNumberInAnArray small=new FindSmallestNumberInAnArray();
+		Z15FindSmallestNumberInAnArray small=new Z15FindSmallestNumberInAnArray();
 //		small.findSmallest();
 //		small.usingArrays();
 		small.usingCollections();

@@ -1,6 +1,6 @@
 package z10javaProb;
 
-public class CountVowels {
+public class Z22CountVowels {
 
 	public static void main(String[] args) {
 		

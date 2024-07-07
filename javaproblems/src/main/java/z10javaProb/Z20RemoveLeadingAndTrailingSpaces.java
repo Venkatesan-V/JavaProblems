@@ -11,7 +11,7 @@ Using regex
 	^[ \t]+|[ \t]+$ leading and Trailing
 
 */
-public class RemoveLeadingAndTrailingSpaces {
+public class Z20RemoveLeadingAndTrailingSpaces {
 
 	public void usingTrim () {
 		String name=" venkat ";
@@ -33,7 +33,7 @@ public class RemoveLeadingAndTrailingSpaces {
 	}
 	public static void main(String[] args) {
 		
-		RemoveLeadingAndTrailingSpaces leadTrail=new RemoveLeadingAndTrailingSpaces();
+		Z20RemoveLeadingAndTrailingSpaces leadTrail=new Z20RemoveLeadingAndTrailingSpaces();
 		leadTrail.usingTrim();
 		leadTrail.usingRegEx();
 		leadTrail.usingStrip();

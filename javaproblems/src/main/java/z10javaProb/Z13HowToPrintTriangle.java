@@ -2,7 +2,7 @@ package z10javaProb;
 
 import java.util.Scanner;
 
-public class HowToPrintTriangle {
+public class Z13HowToPrintTriangle {
 
 	public void usingStar() {
 		Scanner scanner= new Scanner(System.in);
@@ -36,7 +36,7 @@ public class HowToPrintTriangle {
 	}
 			
 	public static void main(String[] args) {
-		HowToPrintTriangle triangle= new HowToPrintTriangle();
+		Z13HowToPrintTriangle triangle= new Z13HowToPrintTriangle();
 		triangle.usingNumber();
 		
 	}

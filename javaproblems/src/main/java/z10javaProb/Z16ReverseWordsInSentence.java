@@ -1,6 +1,6 @@
 package z10javaProb;
 
-public class ReverseWordsInSentence {
+public class Z16ReverseWordsInSentence {
 
 	public static void main(String[] args) {
 		

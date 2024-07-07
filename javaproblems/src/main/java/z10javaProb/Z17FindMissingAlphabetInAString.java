@@ -3,7 +3,7 @@ package z10javaProb;
 import java.util.Arrays;
 import java.util.HashSet;
 
-public class FindMissingAlphabetInAString {
+public class Z17FindMissingAlphabetInAString {
 
 	public static void main(String[] args) {
 		

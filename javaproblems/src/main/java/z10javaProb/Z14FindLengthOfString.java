@@ -1,6 +1,6 @@
 package z10javaProb;
 
-public class FindLengthOfString {
+public class Z14FindLengthOfString {
 
 	public static void main(String[] args) {
 		

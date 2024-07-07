@@ -2,7 +2,7 @@ package z10javaProb;
 
 import java.util.Scanner;
 
-public class FindPositionOfAlphabet {
+public class Z18FindPositionOfAlphabet {
 
 //	To find the position of the given english alphabet
 	Scanner scanner=new Scanner(System.in);
@@ -29,7 +29,7 @@ public class FindPositionOfAlphabet {
 	}
 	public static void main(String[] args) {
 		
-		FindPositionOfAlphabet pos=new FindPositionOfAlphabet();
+		Z18FindPositionOfAlphabet pos=new Z18FindPositionOfAlphabet();
 		pos.lowerCase();
 		pos.upperCase();
 		

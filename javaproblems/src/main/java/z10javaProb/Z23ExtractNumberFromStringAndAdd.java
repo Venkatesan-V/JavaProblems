@@ -1,6 +1,6 @@
 package z10javaProb;
 
-public class ExtractNumberFromStringAndAdd {
+public class Z23ExtractNumberFromStringAndAdd {
 
 	public static void main(String[] args) {
 		

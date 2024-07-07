@@ -1,6 +1,6 @@
 package z10javaProb;
 
-public class ConvertToLowerCase {
+public class Z25ConvertToLowerCase {
 
 	public void convertLower() {
 		String given="VEnkatESAN";
@@ -32,7 +32,7 @@ public class ConvertToLowerCase {
 		}
 	}
 	public static void main(String[] args) {
-		ConvertToLowerCase lowhigh = new ConvertToLowerCase();
+		Z25ConvertToLowerCase lowhigh = new Z25ConvertToLowerCase();
 		lowhigh.convertLower();
 		lowhigh.convertUpper();
 	}

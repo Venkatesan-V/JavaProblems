@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.ListIterator;
 
-public class HowToReverseString {
+public class Z10HowToReverseString {
 
 	public void usingStringBuffer() {
 		String name="environment";
@@ -43,7 +43,7 @@ public class HowToReverseString {
 	
 	public static void main(String[] args) {
 
-		HowToReverseString hRevStr=new HowToReverseString();
+		Z10HowToReverseString hRevStr=new Z10HowToReverseString();
 		hRevStr.usingStringBuffer();
 		hRevStr.usingForLoop();
 		hRevStr.usingCollections();

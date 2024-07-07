@@ -1,6 +1,6 @@
 package z10javaProb;
 
-public class OccurrenceOfACharacter {
+public class Z19OccurrenceOfACharacter {
 
 	public void usingIteration() {
 		String input="Administration";
@@ -33,7 +33,7 @@ public class OccurrenceOfACharacter {
 	
 	public static void main(String[] args) {
 		
-		OccurrenceOfACharacter occur=new OccurrenceOfACharacter();
+		Z19OccurrenceOfACharacter occur=new Z19OccurrenceOfACharacter();
 		occur.usingIteration();
 		occur.withoutIteration();
 		

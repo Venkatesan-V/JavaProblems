@@ -1,6 +1,6 @@
 package z10javaProb;
 
-public class SwapTwonumbers {
+public class Z11SwapTwonumbers {
 
 	public void usingThirdVar() {
 		int mySal=20;
@@ -33,7 +33,7 @@ public class SwapTwonumbers {
 	}
 	public static void main(String[] args) {
 		
-		SwapTwonumbers calling=new SwapTwonumbers();
+		Z11SwapTwonumbers calling=new Z11SwapTwonumbers();
 		calling.usingThirdVar();
 		calling.usingMath();
 		calling.usingMultiplication();

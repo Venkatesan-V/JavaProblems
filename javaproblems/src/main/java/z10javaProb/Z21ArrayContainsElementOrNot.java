@@ -2,7 +2,7 @@ package z10javaProb;
 
 import java.util.stream.IntStream;
 
-public class ArrayContainsElementOrNot {
+public class Z21ArrayContainsElementOrNot {
 
 	int[] array = {1,5,3,7,9};
 	int numberToFind=6;
@@ -35,7 +35,7 @@ public class ArrayContainsElementOrNot {
 	
 	public static void main(String[] args) {
 
-		ArrayContainsElementOrNot num=new ArrayContainsElementOrNot();
+		Z21ArrayContainsElementOrNot num=new Z21ArrayContainsElementOrNot();
 //		num.presentOrNot();
 		num.usingIntStream();
 

@@ -2,7 +2,7 @@ package z10javaProb;
 
 import java.util.Scanner;
 
-public class HowToReverseNumber {
+public class Z12HowToReverseNumber {
 
 	public static void main(String[] args) {
 		

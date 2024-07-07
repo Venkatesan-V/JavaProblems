@@ -1,6 +1,6 @@
 package z10javaProb;
 
-public class ReplaceVowelsSpecialCharacters {
+public class Z24ReplaceVowelsSpecialCharacters {
 
 	public void usingMethod1() {
 		String given= "i am an Indian";
@@ -24,7 +24,7 @@ public class ReplaceVowelsSpecialCharacters {
 	}
 	
 	public static void main(String[] args) {
-		ReplaceVowelsSpecialCharacters replaceVow= new ReplaceVowelsSpecialCharacters();
+		Z24ReplaceVowelsSpecialCharacters replaceVow= new Z24ReplaceVowelsSpecialCharacters();
 		replaceVow.usingMethod1();
 		System.out.println("--------------");
 		replaceVow.usingReplace();
